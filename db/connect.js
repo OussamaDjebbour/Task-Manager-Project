@@ -9,7 +9,6 @@ export const connectDB = (url) => {
 
 
 // const { MongoClient, ServerApiVersion } = require('mongodb');
-// const uri = "mongodb+srv://oussama:j1QFV6NisRXy8Dmu@nodeexpressprojectsbyjo.bhytmei.mongodb.net/?appName=NodeExpressProjectsByJohnSmilga";
 
 // // Create a MongoClient with a MongoClientOptions object to set the Stable API version
 // const client = new MongoClient(uri, {
